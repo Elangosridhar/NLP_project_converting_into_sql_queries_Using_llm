@@ -1,1 +1,1 @@
-# NLP_project_converting_into_sql_queries_Using_llm
+# NLP_project_converting_into_sql_queries_Using_llm![Screenshot (22)](https://github.com/Elangosridhar/NLP_project_converting_into_sql_queries_Using_llm/assets/152356157/52034597-f82d-43cb-98cc-585c6585b9c3)
